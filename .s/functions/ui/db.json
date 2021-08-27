@@ -1,0 +1,1 @@
+{"swagger":"2.0","host":"localhost:7001/api","info":{"title":"dk-tablestore 接口文档"},"tags":[],"schemes":["http","https"],"paths":{},"definitions":{"DefaultBody":{"type":"object","properties":{"name":{"type":"string"}},"xml":{"name":"DefaultBody"}}},"externalDocs":{"description":"查看更多swagger配置","url":"http://swagger.io"}}
