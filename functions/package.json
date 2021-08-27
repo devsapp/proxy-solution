@@ -10,7 +10,8 @@
     "serve": "sandbox --projectName rest-api"
   },
   "dependencies": {
-    "@serverless-devs/dk": "latest"
+    "@serverless-devs/dk": "latest",
+    "request": "^2.88.2"
   },
   "devDependencies": {
     "@serverless-devs/sandbox": "latest"
