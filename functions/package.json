@@ -11,9 +11,12 @@
   },
   "dependencies": {
     "@serverless-devs/dk": "latest",
+    "koa2-connect": "^1.0.2",
+    "lodash": "^4.17.21",
     "request": "^2.88.2"
   },
   "devDependencies": {
-    "@serverless-devs/sandbox": "latest"
+    "@serverless-devs/sandbox": "latest",
+    "http-proxy-middleware": "^2.0.1"
   }
 }
